@@ -18,8 +18,9 @@ no_index:
     - t
     - inc
 requires:
-  Plack: 0
-  Test::More: 0
+  Astro::MoonPhase: 0.60
+  Plack: 0.99
+  Test::More: 0.94
 resources:
   repository: http://github.com/makamaka/plack-middleware-acme-werewolf/
-version: 0.01
+version: 0.02
